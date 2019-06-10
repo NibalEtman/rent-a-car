@@ -1,0 +1,44 @@
+.Yanone{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(162,76,76,.5);
+    font-size: 20px;
+    font-weight: 500px
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #e7580a;
+}
+.jumbotron{
+    text-align: center;
+    background-image: url(../assets/Hero-Image.jpg);
+    color: white
+}
+.jumbotron .btn{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-transform: uppercase;
+}
+.jumbotron h1{
+    text-transform: uppercase;
+}
+
+.section-heading{
+    text-align: center; 
+}
+.left,.right{
+    text-align: center;
+    margin-top: 30px
+}
+
+#contact{
+    background-color: rgb(0, 0, 0, .1)
+}
+
+footer{
+    background-color: #333;
+    color:white;
+    font-size: 20px;
+    font-family: 'Yanone';
+    text-align: center
+}
